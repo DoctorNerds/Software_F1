@@ -1,0 +1,5 @@
+# Ignorar a pasta 'env' (ambiente virtual)
+venv/
+
+# Ignorar a pasta 'cache_data'
+cache_data/
